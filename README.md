@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Janindu Gayanga</h1>
+<h1>Hi <img src="https://media.tenor.com/z2xJqhCpneIAAAAM/wave-hand.gif" width="38px">, I'm Janindu Gayanga</h1>
 <h3 align="center">A passionate full stack developer and UI/UX designer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jani358&label=Profile%20views&color=0e75b6&style=flat" alt="jani358" /> </p>
