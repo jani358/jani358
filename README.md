@@ -1,6 +1,6 @@
 <p align="center">
 <h1>Hi <img src="https://media.tenor.com/z2xJqhCpneIAAAAM/wave-hand.gif" width="38px">, I'm Janindu Gayanga</h1>
-<h3 align="center">A passionate full stack developer and UI/UX designer from Sri Lanka</h3>
+<h3>A passionate full stack web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> !!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jani358&label=Profile%20views&color=0e75b6&style=flat" alt="jani358" /> </p>
 
