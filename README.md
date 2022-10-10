@@ -1,6 +1,6 @@
 <p align="center">
 <h1>Hi <img src="https://media.tenor.com/z2xJqhCpneIAAAAM/wave-hand.gif" width="38px">, I'm Janindu Gayanga</h1>
-<h3>A passionate full stack web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> !!!</h3>
+<h3>A passionate full stack web developer & UI/UX Designer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> !!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jani358&label=Profile%20views&color=0e75b6&style=flat" alt="jani358" /> </p>
 
@@ -12,9 +12,9 @@
 
 - ✉️ You can contact me at **janindugayanga10@gmail.com**
 
-- ⚡ Fun fact **Contemplating spiritual healing😍**
+- ⚡ Fun fact **Contemplating spiritual healing😍**<img src="https://media.giphy.com/media/m6OomwWCojfS8/giphy.gif" width="34">
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">😄 Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@janindugayanga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@janindugayanga" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/02ba60217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="02ba60217" height="30" width="40" /></a>
