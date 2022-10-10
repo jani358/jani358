@@ -6,7 +6,7 @@
 
 <img align="right" alt="gif" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="350" height="350" />
 
-- 🤓 I’m studying mechanical engineering at UFJF and I have already participated in extension projects as a Junior enterprise, assuming management positions
+- 🤓 Software Engineering Undergraduate
 
 - 💻 I’m currently learning MERN stack & Python
 - ⚙️ Tools I have alredy worked with: HTML, JS/JSX, React, CSS, Node.js, MongoDB, php, mysql, python and flask<img src="https://media.giphy.com/media/m6OomwWCojfS8/giphy.gif" width="34">
