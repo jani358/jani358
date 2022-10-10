@@ -13,7 +13,11 @@
 
 - 🖥️ See my portfolio at [https://jani358.github.io/Portfolio/](https://jani358.github.io/Portfolio/)
 
+- 🤝  I'm open to collaborate on interesting projects
+
 - ✉️ You can contact me at **janindugayanga10@gmail.com**
+
+- ❓ Ask me about anything related to Web Development & UI/UX Design
 
 - ⚡ Fun fact **Contemplating spiritual healing😍**<img src="https://media.giphy.com/media/m6OomwWCojfS8/giphy.gif" width="34">
 
