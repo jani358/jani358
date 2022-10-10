@@ -6,13 +6,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jani358" alt="jani358" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/@janindugayanga" target="blank"><img src="https://img.shields.io/twitter/follow/@janindugayanga?logo=twitter&style=for-the-badge" alt="@janindugayanga" /></a> </p>
+
 - 🌱 I’m currently learning **everything 😎🤘**
 
-- ✉️ You can contact me at **janindugayanga10@gmail.com**
+- 🖥️ See my portfolio at [https://jani358.github.io/Portfolio/](https://jani358.github.io/Portfolio/)
 
 - ✉️ You can contact me at **janindugayanga10@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **Contemplating spiritual healing😍**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
