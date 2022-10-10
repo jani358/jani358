@@ -1,4 +1,4 @@
-### Hi there, I’m Lucas Martins 👋 
+### Hi there, I’m Janindu Gayanga 👋 
 
 # Welcome to my GitHub page, I hope you enjoy it! 😁
 
