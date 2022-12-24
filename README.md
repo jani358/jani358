@@ -30,7 +30,7 @@
   <img src="https://styles.redditmedia.com/t5_2su6s/styles/communityIcon_4g1uo0kd87c61.png" width="80" title="hover text">
   <img src="https://iconape.com/wp-content/png_logo_vector/node-js-2.png" width="80" title="hover text">
   <img src="https://cdn.iconscout.com/icon/free/png-256/mongodb-226029.png" width="80" title="hover text">
-  <img src="[https://cdn.iconscout.com/icon/free/png-256/mongodb-226029.png](https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_tailwind_icon_130128.png)" width="80" title="hover text">
+  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_tailwind_icon_130128.png" width="80" title="hover text">
   <img src="https://logodownload.org/wp-content/uploads/2022/04/javascript-logo-4.png" width="80" title="hover text">
   <img src="https://images.vexels.com/media/users/3/166179/isolated/lists/b83d6b47a9502dfaf535087627a8bf96-icone-da-linguagem-de-programacao-c.png" width="80" title="hover text">
 </p> 
