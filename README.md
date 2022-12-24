@@ -24,7 +24,7 @@
 
 ## Language and Tools 🧰
 <p align="flex-start">
-  <img src="https://cdn.iconscout.com/icon/free/png-256/mongodb-226029.png" width="80" title="hover text">
+  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/96/file_type_css_icon_130661.png" width="80" title="hover text">
   <img src="https://cdn.icon-icons.com/icons2/2107/PNG/96/file_type_css_icon_130661.png" width="80" title="hover text">
   <img src="https://cdn.iconscout.com/icon/free/png-256/mongodb-226029.png" width="80" title="hover text">
   <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_tailwind_icon_130128.png" width="80" title="hover text">
