@@ -24,8 +24,6 @@
 
 ## Language and Tools 🧰
 <p align="flex-start">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" width="90" title="hover text">
-  <img src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png" width="60" title="hover text">
   <img src="https://cdn.iconscout.com/icon/free/png-256/mongodb-226029.png" width="80" title="hover text">
   <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_tailwind_icon_130128.png" width="80" title="hover text">
   <img src="https://logodownload.org/wp-content/uploads/2022/04/javascript-logo-4.png" width="80" title="hover text">
