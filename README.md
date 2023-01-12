@@ -38,7 +38,7 @@
  
 </p> 
 <div align="center"> 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jani358&show_icons=true&locale=en" alt="jani358" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jani358&" alt="jani358" /></p>
 
