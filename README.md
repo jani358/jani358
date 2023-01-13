@@ -7,6 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jani358&label=Profile%20views&color=0e75b6&style=flat" alt="jani358" /> </p>
 <br>
 <img align="right" alt="gif" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" align="center" style="width: 60%; height:60% " />
+<br>
 
 - 🔭 💻 I’m currently learning JavaScript & Node.js  
 
