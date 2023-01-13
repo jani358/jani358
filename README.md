@@ -18,7 +18,7 @@
 
 - ⚡  Fun fact: I love sports, cricket is my favorite, and I’m fascinated in traveling around the world ⚽ ✈️  
 
-- 📫 How to reach me: send me an email on janindugayanga10@gmail.com or send me a message on Linkedin www.linkedin.com/in/janindu-gayanga-02ba60217
+- 📫 How to reach me: send me an email on janindugayanga10@gmail.com 
 
 ## You can also find me on 🕵️
 <p align="left">
