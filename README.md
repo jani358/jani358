@@ -22,6 +22,18 @@
 <a href="https://stackoverflow.com/users/user:16996633" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:16996633" height="30" width="40" /></a>
 </p>
 
+## My Skill Set 👩‍💻
+
+<table><tr><td valign="top" width="33%">
+
+
+
+### Frontend  
+   
+<div align="center">  
+<img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/2107/PNG/96/file_type_css_icon_130661.png" alt="React" height="50" />  
+
+
 ## Language and Tools 🧰
 <p align="flex-start">
   <img src="https://cdn.icon-icons.com/icons2/2107/PNG/96/file_type_css_icon_130661.png" width="80" title="hover text">
