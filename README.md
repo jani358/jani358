@@ -9,11 +9,19 @@
 
 - 🤓 Software Engineering Undergraduate
 
-- 💻 I’m currently learning MERN stack & Python
-- ⚙️ Tools I have alredy worked with: HTML, JS/JSX, React, CSS, Node.js, MongoDB, php, mysql, python and flask<img src="https://media.giphy.com/media/m6OomwWCojfS8/giphy.gif" width="34">
-- 📫 How to reach me: send me an email on janindugayanga10@gmail.com or send me a message on Linkedin [ Janindu Gayanga  ](https://www.linkedin.com/in/janindu-gayanga-02ba60217/  ) 
-- 😄 Pronouns: he/him 
-- ⚡ Fun fact: I love sports, cricket is my favorite, and I’m fascinated in traveling around the world  ⚽ ✈️
+- 🔭 💻 I’m currently learning JavaScript & Node.js  
+  
+
+- 🌱 I’m looking to collaborate on Web development, Mobile Application development  
+  
+
+- 💬 Ask me about Web development/ Mobile Application development/ Software engineering  
+  
+
+- ⚡  Fun fact: I love sports, cricket is my favorite, and I’m fascinated in traveling around the world ⚽ ✈️  
+  
+
+- 📫 How to reach me: send me an email on janindugayanga10@gmail.com or send me a message on Linkedin Janindu Gayanga  
 
 ## You can also find me on 🕵️
 <p align="left">
