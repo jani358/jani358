@@ -4,7 +4,7 @@
 
 ## Some facts about me 💬 
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jani358&label=Profile%20views&color=0e75b6&style=flat" alt="jani358" /> </p>
 <img align="right" alt="gif" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" align="center" style="width: 75%; height:75% " />
 
 - 🔭 💻 I’m currently learning JavaScript & Node.js  
