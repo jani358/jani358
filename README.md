@@ -22,9 +22,9 @@
 
 ## You can also find me on 🕵️
 <p align="left">
-<a href="https://twitter.com/@janindugayanga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@janindugayanga" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/02ba60217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="02ba60217" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/user:16996633" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:16996633" height="30" width="40" /></a>
+<a href="https://twitter.com/JaninduGayanga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@janindugayanga" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/janindu-gayanga-02ba60217/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="02ba60217" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/16996633/a-janindu-gayanga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:16996633" height="30" width="40" /></a>
 </p>
 
 <br/>  
