@@ -91,6 +91,14 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jani358&" alt="jani358" /></p>
+  
+  <br/>  
+
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=jani358&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
 
 </div>  
 
