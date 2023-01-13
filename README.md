@@ -9,9 +9,13 @@
 <img align="right" alt="gif" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" align="center" style="width: 60%; height:60% " />
 
 - 🔭 💻 I’m currently learning JavaScript & Node.js  
+
 - 🌱 I’m looking to collaborate on Web development, Mobile Application development  
+
 - 💬 Ask me about Web development/ Mobile Application development/ Software engineering  
+
 - ⚡  Fun fact: I love sports, cricket is my favorite, and I’m fascinated in traveling around the world ⚽ ✈️  
+
 - 📫 How to reach me: send me an email on janindugayanga10@gmail.com or send me a message on Linkedin Janindu Gayanga  
 
 ## You can also find me on 🕵️
