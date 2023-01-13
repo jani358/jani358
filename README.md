@@ -8,7 +8,6 @@
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jani358&label=Profile%20views&color=0e75b6&style=flat" alt="jani358" /> </p>
 <br>
-
 ## Some facts about me 💬 
 
 - 🔭 💻 I’m currently learning JavaScript & Node.js  
