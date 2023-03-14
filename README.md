@@ -10,7 +10,7 @@
 <br>
 ## Some facts about me 💬 
 
-- 🔭 💻 I’m currently learning JavaScript & Node.js  
+- 🔭 💻 I’m currently learning NestJS
 
 - 🌱 I’m looking to collaborate on Web development, Mobile Application development  
 
