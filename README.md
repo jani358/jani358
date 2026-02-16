@@ -1,64 +1,73 @@
-### Hi there, I’m Janindu Gayanga 👋
-Welcome to my GitHub page, I hope you enjoy it! 😍
+### Hi there, I’m Janindu Gayanga 👋  
+Welcome to my GitHub profile 🚀  
+
 <div align="center">
-<img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" align="center" style="width: 100%;" />
+<img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" width="100%" />
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jani358&label=Profile%20views&color=0e75b6&style=flat" alt="jani358" /> </p>
+---
 
-Some facts about me 💬
-🔭 💻 I’m a Software Engineer specializing in Web Development & SaaS Systems. [2]
+### 💻 About Me
 
-🌱 Currently focused on building scalable Microservices using Golang. [2]
+- 💻 Software Engineer specializing in **Web Development**
+- 🌱 Currently building scalable **Microservices using Golang**
+- 🤖 AI-First Developer leveraging modern AI tools to accelerate development
+- ⚡ Passionate about Web3, AI/ML & High-Performance Systems
+- 📫 Reach me: **janindugayanga10@gmail.com**
 
-🤖 AI-First Developer: I leverage modern AI tools to accelerate development and shipping.
+---
 
-⚡ Interests: Deeply enthusiastic about Web3, AI/ML, and high-performance system design.
+### 🤖 AI Toolbelt
 
-📫 Reach me: janindugayanga10@gmail.com
+I actively use modern AI development tools:
 
-🛠️ Modern AI Toolbelt
-Accelerating development through the latest AI technologies
+- Cursor
+- Claude
+- Replit
+- Lovable
+- GitHub Copilot
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=cursor,claude,replit&theme=dark" />
-<img src="https://img.shields.io/badge/Lovable-FF4B4B?style=for-the-badge&logo=lovable&logoColor=white" height="40" />
-</p>
+---
 
-My Skill Set
-<table><tr><td valign="top" width="33%">
+## 🛠️ Tech Stack
 
-Frontend
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### Frontend
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,js&perline=2" alt="Frontend" />
-
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,js" />
 </div>
 
-</td><td valign="top" width="33%">
+</td>
 
-Backend & Data
+<td width="33%" valign="top">
+
+### Backend & Data
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=go,nestjs,postgres,kafka,graphql&perline=2" alt="Backend" />
-
+<img src="https://skillicons.dev/icons?i=go,nestjs,postgres,kafka,graphql" />
 </div>
 
-</td><td valign="top" width="33%">
+</td>
 
-Cloud & DevOps
+<td width="33%" valign="top">
+
+### Cloud & DevOps
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform&perline=2" alt="DevOps" />
-
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform" />
 </div>
 
-</td></tr></table>
+</td>
+</tr>
+</table>
+
+---
 
 <div align="center">
+
 <img src="https://github-readme-stats.vercel.app/api?username=jani358&show_icons=true&theme=tokyonight&count_private=true" />
 
-
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jani358&theme=tokyonight" />
+
 </div>
