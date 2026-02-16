@@ -7,9 +7,9 @@ Welcome to my GitHub page, I hope you enjoy it! 😍
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jani358&label=Profile%20views&color=0e75b6&style=flat" alt="jani358" /> </p>
 
 Some facts about me 💬
-🔭 💻 I’m a Software Engineer specializing in Web Development & SaaS Systems.
+🔭 💻 I’m a Software Engineer specializing in Web Development & SaaS Systems. [2]
 
-🌱 Currently focused on building scalable Microservices using Golang.
+🌱 Currently focused on building scalable Microservices using Golang. [2]
 
 🤖 AI-First Developer: I leverage modern AI tools to accelerate development and shipping.
 
@@ -21,7 +21,7 @@ Some facts about me 💬
 Accelerating development through the latest AI technologies
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=replit,cursor,claude&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cursor,claude,replit&theme=dark" />
 <img src="https://img.shields.io/badge/Lovable-FF4B4B?style=for-the-badge&logo=lovable&logoColor=white" height="40" />
 </p>
 
@@ -31,7 +31,7 @@ My Skill Set
 Frontend
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,js,html,css&perline=3" alt="Frontend" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,js&perline=2" alt="Frontend" />
 
 </div>
 
@@ -40,16 +40,16 @@ Frontend
 Backend & Data
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=go,nestjs,nodejs,postgres,mongodb,graphql&perline=3" alt="Backend" />
+<img src="https://skillicons.dev/icons?i=go,nestjs,postgres,kafka,graphql&perline=2" alt="Backend" />
 
 </div>
 
 </td><td valign="top" width="33%">
 
-DevOps & Infrastructure
+Cloud & DevOps
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,kafka&perline=3" alt="DevOps" />
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform&perline=2" alt="DevOps" />
 
 </div>
 
