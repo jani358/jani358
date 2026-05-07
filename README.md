@@ -10,6 +10,7 @@ Welcome to my GitHub profile 🚀
 ### 💻 About Me
 
 - 💻 Software Engineer specializing in **Web Development**
+- 🌐 Portfolio: **[iamjanindu.com](https://iamjanindu.com)** 🚀
 - 🌱 Currently building scalable **Microservices using Golang**
 - 🤖 AI-First Developer leveraging modern AI tools to accelerate development
 - ⚡ Passionate about Web3, AI/ML & High-Performance Systems
@@ -21,11 +22,9 @@ Welcome to my GitHub profile 🚀
 
 I actively use modern AI development tools:
 
-- Cursor
-- Claude
-- Replit
-- Lovable
-- GitHub Copilot
+- **Cursor & Claude** - Intelligent Coding & Logic
+- **Replit & Lovable** - Rapid Prototyping & Deployment
+- **GitHub Copilot** - AI Pair Programming
 
 ---
 
@@ -37,7 +36,7 @@ I actively use modern AI development tools:
 
 ### Frontend
 <div align="center">
-<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,js" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,js,ts" />
 </div>
 
 </td>
@@ -46,7 +45,7 @@ I actively use modern AI development tools:
 
 ### Backend & Data
 <div align="center">
-<img src="https://skillicons.dev/icons?i=go,nestjs,postgres,kafka,graphql" />
+<img src="https://skillicons.dev/icons?i=go,nestjs,nodejs,postgres,mongodb,kafka" />
 </div>
 
 </td>
@@ -55,7 +54,7 @@ I actively use modern AI development tools:
 
 ### Cloud & DevOps
 <div align="center">
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform" />
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,githubactions" />
 </div>
 
 </td>
