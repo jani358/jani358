@@ -22,15 +22,15 @@
 
 ## 🚀 Domain Expertise & Featured Projects
 
-I specialize in architecting scalable, real-time backend systems and modern web applications[cite: 1].
+I specialize in architecting scalable, real-time backend systems and modern web applications.
 
 ### 🎲 Enterprise & High-Concurrency Systems
-* **Enterprise iGaming Platform:** Architected a real-time ecosystem handling **10,000+ concurrent connections** with sub-100ms latency[cite: 1]. Migrated core microservices from Node.js to **Go (Golang)** to optimize execution speed[cite: 1]. Utilized Kafka for event-driven architecture[cite: 1].
-* **Scalable Fintech Platform:** Engineered a production-ready financial backend using **Nest.js microservices**[cite: 1]. Managed the ecosystem via containerized Docker environments on AWS[cite: 1], integrating multiple payment and crypto exchange gateways[cite: 1].
+* **Enterprise iGaming Platform:** Architected a real-time ecosystem handling **10,000+ concurrent connections** with sub-100ms latency. Migrated core microservices from Node.js to **Go (Golang)** to optimize execution speed. Utilized Kafka for event-driven architecture.
+* **Scalable Fintech Platform:** Engineered a production-ready financial backend using **Nest.js microservices**. Managed the ecosystem via containerized Docker environments on AWS, integrating multiple payment and crypto exchange gateways.
 
 ### 🌐 Custom SaaS & Web Platforms
 * **BookLK, AskLK & QueueLK:** Designed and developed modern, high-performance web applications tailored for specific business and operational needs, focusing on responsive UIs and robust backend architectures.
-* **GCProperty.lk & TutorWorldOnline:** Delivered full-stack portals (Next.js, Strapi) and comprehensive management systems covering student records and academic tracking[cite: 1].
+* **GCProperty.lk & TutorWorldOnline:** Delivered full-stack portals (Next.js, Strapi) and comprehensive management systems covering student records and academic tracking.
 
 ### 📈 AI & Web3 Innovations
 * **Automated Crypto Trading Bot:** Developed a trading bot integrating **Binance & Gemini APIs**. Leverages AI news analysis and technical strategies (Fibonacci, Elliott Wave) for real-time market prediction and automated execution.
@@ -68,15 +68,14 @@ I specialize in architecting scalable, real-time backend systems and modern web 
 <div align="center">
 
 <!-- GitHub Trophies -->
-<a href="https://github.com/ryota2357/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=jani358&theme=tokyonight&margin-w=15&margin-h=15" alt="Trophies" />
-</a>
+[![Trophies](https://github-profile-trophy.vercel.app/?username=jani358&theme=tokyonight&margin-w=15&margin-h=15&v=1)](https://github.com/ryota2357/github-profile-trophy)
+
 <br><br>
 
 <!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=jani358&show_icons=true&theme=tokyonight&count_private=true" alt="Stats" />
+[![Stats](https://github-readme-stats.vercel.app/api?username=jani358&show_icons=true&theme=tokyonight&count_private=true&v=1)](https://github.com/jani358)
 
 <!-- GitHub Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jani358&theme=tokyonight" alt="Streak" />
+[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=jani358&theme=tokyonight)](https://github.com/jani358)
 
 </div>
