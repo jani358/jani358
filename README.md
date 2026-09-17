@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:8957E5&height=200&section=header&text=Janindu%20Gayanga&fontSize=52&fontColor=FFFFFF&fontAlignY=35&desc=Senior%20Software%20Engineer%20%E2%80%A2%20Go%20%E2%80%A2%20Distributed%20Systems%20%E2%80%A2%20AI&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:8957E5&height=200&section=header&text=Janindu%20Gayanga&fontSize=52&fontColor=FFFFFF&fontAlignY=35&desc=%20Software%20Engineer%20%E2%80%A2%20Go%20%E2%80%A2%20Distributed%20Systems%20%E2%80%A2%20AI&descAlignY=58&descSize=18" width="100%" />
 
 <a href="https://iamjanindu.com/"><img src="https://img.shields.io/badge/Portfolio-1F6FEB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/janindu-gayanga-02ba60217/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
