@@ -18,6 +18,20 @@ Welcome to my GitHub profile 🚀
 
 ---
 
+### 🚀 Featured Experience & Projects
+
+**Domain Expertise:** Highly experienced in building secure, high-concurrency microservices and full-stack applications for the **iGaming**, **Fintech**, and **EdTech** industries.
+
+* 🎮 **Enterprise iGaming Platform:** Architected a real-time gaming ecosystem handling 10,000+ concurrent connections with sub-100ms latency. Migrated core microservices from Node.js to Go (Golang) to optimize execution speed. Scaled WebSocket servers and utilized Kafka for event-driven architecture.
+* 💳 **Scalable Fintech Platform:** Engineered a production-ready financial backend using Nest.js microservices. Managed the ecosystem via containerized Docker environments on AWS. Successfully integrated multiple payment and crypto exchange gateways into a unified backend service.
+* 📚 **EdTech Solutions (TutorWorldOnline & UK School Systems):** Delivered comprehensive full-stack management systems covering student records, staff management, and academic tracking. Focused on highly scalable and interactive online learning environments.
+* 🛠️ **Custom Web Platforms (BookLK, AskLK, QueueLK):** Designed and developed modern, high-performance web applications tailored for specific business and operational needs, focusing on responsive UIs and robust backend architectures.
+* 🏢 **GCProperty.lk:** A full-stack real estate portal built with **Next.js** and **Strapi**, focusing on high performance and seamless property listing management.
+
+💼 **Open to Opportunities:** Proven track record of strictly adhering to production-level QA standards. Actively available for freelance client projects and full-time software engineering roles.
+
+---
+
 ### 🤖 AI Toolbelt
 
 I actively use modern AI development tools:
@@ -65,8 +79,16 @@ I actively use modern AI development tools:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jani358&show_icons=true&theme=tokyonight&count_private=true" />
+<!-- GitHub Trophies -->
+<a href="https://github.com/ryota2357/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=jani358&theme=tokyonight&margin-w=15&margin-h=15" alt="jani358 GitHub Trophies" />
+</a>
+<br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jani358&theme=tokyonight" />
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=jani358&show_icons=true&theme=tokyonight&count_private=true" alt="jani358 GitHub Stats" />
+
+<!-- GitHub Streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jani358&theme=tokyonight" alt="jani358 GitHub Streak" />
 
 </div>
