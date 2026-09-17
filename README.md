@@ -1,81 +1,144 @@
 <div align="center">
-  <img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" width="100%" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:8957E5&height=200&section=header&text=Janindu%20Gayanga&fontSize=52&fontColor=FFFFFF&fontAlignY=35&desc=Senior%20Software%20Engineer%20%E2%80%A2%20Go%20%E2%80%A2%20Distributed%20Systems%20%E2%80%A2%20AI&descAlignY=58&descSize=18" width="100%" />
+
+<a href="https://iamjanindu.com/"><img src="https://img.shields.io/badge/Portfolio-1F6FEB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/janindu-gayanga-02ba60217/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:janindugayanga10@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<img src="https://komarev.com/ghpvc/?username=jani358&style=for-the-badge&color=8957E5&label=PROFILE+VIEWS" alt="Profile views" />
+
 </div>
 
-<div align="center">
-  <a href="https://iamjanindu.com/"><img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/janindu-gayanga-02ba60217/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:janindugayanga10@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</div>
+---
+
+## 👋 About me
+
+Full-stack engineer from Colombo, Sri Lanka. I spend most of my time on **backend systems where
+correctness under concurrency matters** — wallets that must never double-credit, queues that must
+never hand two people the same number, bookings that must never sell one slot twice.
+
+```text
+Production  ·  Go · TypeScript · NestJS · Next.js · PostgreSQL · Redis · Kafka
+Scale       ·  10,000+ concurrent WebSocket connections at sub-100 ms
+Migration   ·  Led a Node.js → Go move of the hot paths after profiling proved it was CPU-bound
+Infra       ·  Docker · Kubernetes (K3s) · Terraform · ArgoCD GitOps · AWS
+Right now   ·  Bilingual RAG (pgvector, hybrid retrieval) and real-time SaaS for Sri Lankan businesses
+```
 
 ---
 
-## 👨‍💻 About Me
-
-- 🚀 **Software Engineer** specializing in High-Performance Systems & Web Development.
-- 🌱 Currently architecting scalable **Microservices using Golang**.
-- 🤖 **AI-First Developer** leveraging modern AI tools to accelerate development and design.
-- ⚡ Passionate about **Web3, AI/ML, and Cloud Infrastructure**.
-- 💼 Actively delivering custom solutions on **Upwork & Fiverr** alongside enterprise development.
-
----
-
-## 🚀 Domain Expertise & Featured Projects
-
-I specialize in architecting scalable, real-time backend systems and modern web applications.
-
-### 🎲 Enterprise & High-Concurrency Systems
-* **Enterprise iGaming Platform:** Architected a real-time ecosystem handling **10,000+ concurrent connections** with sub-100ms latency. Migrated core microservices from Node.js to **Go (Golang)** to optimize execution speed. Utilized Kafka for event-driven architecture.
-* **Scalable Fintech Platform:** Engineered a production-ready financial backend using **Nest.js microservices**. Managed the ecosystem via containerized Docker environments on AWS, integrating multiple payment and crypto exchange gateways.
-
-### 🌐 Custom SaaS & Web Platforms
-* **BookLK, AskLK & QueueLK:** Designed and developed modern, high-performance web applications tailored for specific business and operational needs, focusing on responsive UIs and robust backend architectures.
-* **GCProperty.lk & TutorWorldOnline:** Delivered full-stack portals (Next.js, Strapi) and comprehensive management systems covering student records and academic tracking.
-
-### 📈 AI & Web3 Innovations
-* **Automated Crypto Trading Bot:** Developed a trading bot integrating **Binance & Gemini APIs**. Leverages AI news analysis and technical strategies (Fibonacci, Elliott Wave) for real-time market prediction and automated execution.
-
----
-
-## 🛠️ Tech Stack & AI Toolbelt
+## 🧩 What I build
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### 💻 Core Technologies
-<div align="center">
-<img src="https://skillicons.dev/icons?i=go,nestjs,nodejs,nextjs,react,ts,tailwind" />
-<br><br>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,kafka,aws,docker,githubactions" />
-</div>
+### 🤖 AskLK
+**Bilingual AI assistant**
+
+Ask in Sinhala, get Sinhala — from an English document. Multi-tenant RAG on **pgvector**, hybrid
+retrieval (vector + full-text merged by **Reciprocal Rank Fusion**) in one SQL query, four
+anti-hallucination layers, SSE streaming, 14 KB embeddable widget.
+
+`NestJS` `pgvector` `Next.js` `Gemini`
+
+[**→ Read the write-ups**](https://github.com/jani358/asklk-AI-assistant-showcase)
+
 </td>
+<td width="33%" valign="top">
 
-<td width="50%" valign="top">
+### 🎫 QueueLK
+**Real-time queue & tokens**
 
-### 🤖 AI Development Tools
-* **Cursor & Claude** - Intelligent Coding & Logic
-* **Replit & Lovable** - Rapid Prototyping & Deployment
-* **GitHub Copilot** - AI Pair Programming
+Take a number from your phone, watch the counter from the waiting room. Gap-free numbering under
+concurrency (`SELECT … FOR UPDATE` plus a unique-constraint backstop), live SSE display boards,
+multi-tenant SaaS for clinics and counters.
+
+`NestJS` `PostgreSQL` `SSE` `Redis`
+
+[**→ Read the write-ups**](https://github.com/jani358/queuelk-showcase)
+
+</td>
+<td width="33%" valign="top">
+
+### 📅 BookLK
+**Booking marketplace**
+
+Double-booking is a correctness problem, not a UI problem. Idempotency keys, Redis locks and a row
+lock inside a serializable transaction — with a concurrent test that asserts exactly one winner.
+
+`Next.js` `NestJS` `Go` `PostgreSQL`
+
+[**→ Read the write-ups**](https://github.com/jani358/BookLK-showcase)
+
 </td>
 </tr>
 </table>
 
+### Also, at work and on my own time
+
+| | |
+|---|---|
+| **iGaming platform** (production) | 18 Go microservices behind an API gateway · Kafka events · the wallet/ledger service where four independent layers stop a player being double-credited · 10,000+ live WebSocket connections |
+| **Infrastructure** | Terraform-provisioned AWS → K3s + ArgoCD GitOps · Prometheus, Grafana, Loki, Tempo · a dev environment that costs tens of dollars instead of ~$1,000/month managed |
+| **Go trading bot** | Binance futures, indicators computed in Go, an LLM as the *proposal* and ~15 deterministic risk gates as the *decision* — each gate added after a real losing trade |
+| **Retail POS** (Electron) | Offline-first desktop point of sale · integer-cent money in a shared module · verified backups after every bill |
+
 ---
 
-## 🏆 GitHub Analytics
+## 🛠️ Stack
 
 <div align="center">
 
-<!-- GitHub Trophies -->
-[![Trophies](https://github-profile-trophy.vercel.app/?username=jani358&theme=tokyonight&margin-w=15&margin-h=15&v=1)](https://github.com/ryota2357/github-profile-trophy)
+**Languages**
 
-<br><br>
+<img src="https://skillicons.dev/icons?i=go,ts,js,c&theme=dark" />
 
-<!-- GitHub Stats -->
-[![Stats](https://github-readme-stats.vercel.app/api?username=jani358&show_icons=true&theme=tokyonight&count_private=true&v=1)](https://github.com/jani358)
+**Backend & data**
 
-<!-- GitHub Streak -->
-[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=jani358&theme=tokyonight)](https://github.com/jani358)
+<img src="https://skillicons.dev/icons?i=nestjs,nodejs,postgres,redis,kafka,prisma,mongodb&theme=dark" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,electron&theme=dark" />
+
+**Infrastructure**
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,aws,githubactions,grafana,linux&theme=dark" />
+
+</div>
+
+---
+
+## 📊 GitHub
+
+<div align="center">
+
+<img src="https://github-trophies.vercel.app/?username=jani358&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
+
+<br />
+
+<img height="165" src="https://janindu-stats.vercel.app/api?username=jani358&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=1F6FEB&icon_color=8957E5" alt="Stats" />
+<img height="165" src="https://streak-stats.demolab.com/?user=jani358&hide_border=true&theme=tokyonight&background=0D1117&ring=1F6FEB&fire=8957E5&currStreakLabel=8957E5" alt="Streak" />
+
+<br />
+
+<img height="165" src="https://janindu-stats.vercel.app/api/top-langs/?username=jani358&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=1F6FEB" alt="Top languages" />
+
+<br /><br />
+
+<img src="https://ghchart.rshah.org/1F6FEB/jani358" alt="Contribution graph" width="96%" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Open to senior backend, platform and AI-engineering roles
+
+<a href="mailto:janindugayanga10@gmail.com"><img src="https://img.shields.io/badge/Let's%20talk-janindugayanga10@gmail.com-1F6FEB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8957E5,50:1F6FEB,100:0D1117&height=120&section=footer" width="100%" />
 
 </div>
