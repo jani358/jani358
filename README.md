@@ -1,144 +1,43 @@
-<div align="center">
+<h1 align="center">Janindu Gayanga</h1>
+<p align="center"><b>Software Engineer</b> · Node.js · TypeScript · Go · React/Next.js · Distributed systems · AI agents</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:8957E5&height=200&section=header&text=Janindu%20Gayanga&fontSize=52&fontColor=FFFFFF&fontAlignY=35&desc=%20Software%20Engineer%20%E2%80%A2%20Go%20%E2%80%A2%20Distributed%20Systems%20%E2%80%A2%20AI&descAlignY=58&descSize=18" width="100%" />
+<p align="center">
+  <a href="https://iamjanindu.com"><img src="https://img.shields.io/badge/Portfolio-iamjanindu.com-1F6FEB?style=flat-square" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/janindu-gayanga-02ba60217"><img src="https://img.shields.io/badge/LinkedIn-janindu--gayanga-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:janindugayanga10@gmail.com"><img src="https://img.shields.io/badge/Email-janindugayanga10%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://img.shields.io/badge/Open%20to-Remote%20%C2%B7%20Colombo-2EA043?style=flat-square" alt="Open to remote or Colombo roles" />
+</p>
 
-<a href="https://iamjanindu.com/"><img src="https://img.shields.io/badge/Portfolio-1F6FEB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/janindu-gayanga-02ba60217/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:janindugayanga10@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<img src="https://komarev.com/ghpvc/?username=jani358&style=for-the-badge&color=8957E5&label=PROFILE+VIEWS" alt="Profile views" />
+I mostly build backend systems that have to stay **correct under concurrency**. A wallet can't credit twice, a queue can't give two people the same number, and a booking site can't sell one slot twice.
 
-</div>
+- Day job, 3+ years as a full-stack engineer: a real-money iGaming platform we're moving off a Node.js/MongoDB monolith onto **20 Go services + an API gateway**, with Kafka, PostgreSQL and Redis. 12,299 users and 584K records are migrating, and it ships with GitHub Actions and ArgoCD on K3s/AWS.
+- After hours I build full products with ADRs, SLOs, a runbook, a postmortem and CI. That's where I learn the most.
+- I use Claude Code and Cursor every day. Their code gets reviewed like anyone else's.
 
----
+## Projects
 
-## 👋 About me
+| Project | What it shows | Stack |
+|---|---|---|
+| [**ApplyWise**](https://github.com/jani358/applywise-showcase) | AI job copilot. Every tailored CV line must cite a profile fact, and a CI eval gate fails at 1% fabrication (0.0% of 570 claims, measured on an offline test model). Includes a Go ATS parser and a Chrome extension. Full source on request. | Next.js 15 · NestJS · Go · pgvector · BullMQ |
+| [**AskLK**](https://github.com/jani358/asklk-AI-assistant-showcase) | Multi-tenant Sinhala/English RAG with a tool-calling agent, an MCP server and a 46-case eval set gating PRs. Tenants are isolated by Postgres row-level security, with OIDC SSO. AWS Terraform verified on LocalStack. Full source on request. | NestJS · Next.js 15 · pgvector · OpenTelemetry |
+| [**BookLK**](https://github.com/jani358/BookLK-showcase) | Booking marketplace: Kafka transactional outbox, Stripe/PayHere behind a payment port, GraphQL with DataLoader, Helm + ArgoCD on k3d, PACT contracts, and k6 at 500 virtual users with zero double bookings. Full source on request. | NestJS · Go · Kafka · MongoDB · Kubernetes |
+| [**QueueLK**](https://github.com/jani358/queuelk-showcase) | Real-time clinic queue with gap-free tokens under concurrency, Socket.io, Web Push and a React Native (Expo) app. k6 caught a connection-pool problem under load (p95 7.6 s); after fixing it and narrowing row locks, take-number p95 is 71–91 ms. GCP Terraform verified on emulators. Full source on request. | NestJS · Postgres · Redis · Expo · GCP |
 
-Full-stack engineer from Colombo, Sri Lanka. I spend most of my time on **backend systems where
-correctness under concurrency matters** — wallets that must never double-credit, queues that must
-never hand two people the same number, bookings that must never sell one slot twice.
 
-```text
-Production  ·  Go · TypeScript · NestJS · Next.js · PostgreSQL · Redis · Kafka
-Scale       ·  10,000+ concurrent WebSocket connections at sub-100 ms
-Migration   ·  Led a Node.js → Go move of the hot paths after profiling proved it was CPU-bound
-Infra       ·  Docker · Kubernetes (K3s) · Terraform · ArgoCD GitOps · AWS
-Right now   ·  Bilingual RAG (pgvector, hybrid retrieval) and real-time SaaS for Sri Lankan businesses
-```
+## Toolbox
 
----
+- **Languages:** TypeScript · JavaScript · Go · SQL
+- **Backend:** Node.js · NestJS · Express · REST · GraphQL · WebSockets · Socket.io · SSE · Kafka · BullMQ
+- **Frontend:** React · Next.js · React Native (Expo) · Redux Toolkit · Zustand · TanStack Query · Tailwind · shadcn/ui · MUI
+- **AI:** LLMs (Claude, Gemini, OpenAI-compatible) · RAG · AI agents and tool calling · MCP · LLM evals in CI
+- **Data:** PostgreSQL (RLS, pgvector) · MongoDB · Redis · BigQuery
+- **Cloud and ops:** AWS · GCP · Docker · Kubernetes · Helm · ArgoCD · Terraform · GitHub Actions · OpenTelemetry · Prometheus · Grafana · Sentry
+- **Testing:** Jest · Vitest · Playwright · Testcontainers · PACT · k6
 
-## 🧩 What I build
+## How I work
 
-<table>
-<tr>
-<td width="33%" valign="top">
+- I write the decision down before the code. Every repo has ADRs in `docs/adr/`.
+- If I claim something about concurrency, there's a race test for it. My k6 reports keep the targets I missed, and AI output has to pass an eval gate.
+- When something only ran on LocalStack, emulators or k3d, the README says so. I don't pretend it's on real AWS.
 
-### 🤖 AskLK
-**Bilingual AI assistant**
-
-Ask in Sinhala, get Sinhala — from an English document. Multi-tenant RAG on **pgvector**, hybrid
-retrieval (vector + full-text merged by **Reciprocal Rank Fusion**) in one SQL query, four
-anti-hallucination layers, SSE streaming, 14 KB embeddable widget.
-
-`NestJS` `pgvector` `Next.js` `Gemini`
-
-[**→ Read the write-ups**](https://github.com/jani358/asklk-AI-assistant-showcase)
-
-</td>
-<td width="33%" valign="top">
-
-### 🎫 QueueLK
-**Real-time queue & tokens**
-
-Take a number from your phone, watch the counter from the waiting room. Gap-free numbering under
-concurrency (`SELECT … FOR UPDATE` plus a unique-constraint backstop), live SSE display boards,
-multi-tenant SaaS for clinics and counters.
-
-`NestJS` `PostgreSQL` `SSE` `Redis`
-
-[**→ Read the write-ups**](https://github.com/jani358/queuelk-showcase)
-
-</td>
-<td width="33%" valign="top">
-
-### 📅 BookLK
-**Booking marketplace**
-
-Double-booking is a correctness problem, not a UI problem. Idempotency keys, Redis locks and a row
-lock inside a serializable transaction — with a concurrent test that asserts exactly one winner.
-
-`Next.js` `NestJS` `Go` `PostgreSQL`
-
-[**→ Read the write-ups**](https://github.com/jani358/BookLK-showcase)
-
-</td>
-</tr>
-</table>
-
-### Also, at work and on my own time
-
-| | |
-|---|---|
-| **iGaming platform** (production) | 18 Go microservices behind an API gateway · Kafka events · the wallet/ledger service where four independent layers stop a player being double-credited · 10,000+ live WebSocket connections |
-| **Infrastructure** | Terraform-provisioned AWS → K3s + ArgoCD GitOps · Prometheus, Grafana, Loki, Tempo · a dev environment that costs tens of dollars instead of ~$1,000/month managed |
-| **Go trading bot** | Binance futures, indicators computed in Go, an LLM as the *proposal* and ~15 deterministic risk gates as the *decision* — each gate added after a real losing trade |
-| **Retail POS** (Electron) | Offline-first desktop point of sale · integer-cent money in a shared module · verified backups after every bill |
-
----
-
-## 🛠️ Stack
-
-<div align="center">
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=go,ts,js,c&theme=dark" />
-
-**Backend & data**
-
-<img src="https://skillicons.dev/icons?i=nestjs,nodejs,postgres,redis,kafka,prisma,mongodb&theme=dark" />
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,electron&theme=dark" />
-
-**Infrastructure**
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,aws,githubactions,grafana,linux&theme=dark" />
-
-</div>
-
----
-
-## 📊 GitHub
-
-<div align="center">
-
-<img src="https://github-trophies.vercel.app/?username=jani358&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
-
-<br />
-
-<img height="165" src="https://janindu-stats.vercel.app/api?username=jani358&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=1F6FEB&icon_color=8957E5" alt="Stats" />
-<img height="165" src="https://streak-stats.demolab.com/?user=jani358&hide_border=true&theme=tokyonight&background=0D1117&ring=1F6FEB&fire=8957E5&currStreakLabel=8957E5" alt="Streak" />
-
-<br />
-
-<img height="165" src="https://janindu-stats.vercel.app/api/top-langs/?username=jani358&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=1F6FEB" alt="Top languages" />
-
-<br /><br />
-
-<img src="https://ghchart.rshah.org/1F6FEB/jani358" alt="Contribution graph" width="96%" />
-
-</div>
-
----
-
-<div align="center">
-
-### 💬 Open to senior backend, platform and AI-engineering roles
-
-<a href="mailto:janindugayanga10@gmail.com"><img src="https://img.shields.io/badge/Let's%20talk-janindugayanga10@gmail.com-1F6FEB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8957E5,50:1F6FEB,100:0D1117&height=120&section=footer" width="100%" />
-
-</div>
+<p align="center"><sub>Colombo, Sri Lanka · open to Software Engineer / Senior Software Engineer roles, remote worldwide or in Colombo</sub></p>
