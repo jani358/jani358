@@ -5,7 +5,7 @@
   <a href="https://iamjanindu.com"><img src="https://img.shields.io/badge/Portfolio-iamjanindu.com-1F6FEB?style=flat-square" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/janindu-gayanga-02ba60217"><img src="https://img.shields.io/badge/LinkedIn-janindu--gayanga-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:janindugayanga10@gmail.com"><img src="https://img.shields.io/badge/Email-janindugayanga10%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://img.shields.io/badge/Open%20to-Remote%20%C2%B7%20Colombo-2EA043?style=flat-square" alt="Open to remote or Colombo roles" />
+  <img src="https://img.shields.io/badge/Open%20to-On--site%20%C2%B7%20Hybrid%20%C2%B7%20Remote-2EA043?style=flat-square" alt="Open to on-site, hybrid or remote roles" />
 </p>
 
 I mostly build backend systems that have to stay **correct under concurrency**. A wallet can't credit twice, a queue can't give two people the same number, and a booking site can't sell one slot twice.
@@ -40,4 +40,4 @@ I mostly build backend systems that have to stay **correct under concurrency**. 
 - If I claim something about concurrency, there's a race test for it. My k6 reports keep the targets I missed, and AI output has to pass an eval gate.
 - When something only ran on LocalStack, emulators or k3d, the README says so. I don't pretend it's on real AWS.
 
-<p align="center"><sub>Colombo, Sri Lanka · open to Software Engineer / Senior Software Engineer roles, remote worldwide or in Colombo</sub></p>
+<p align="center"><sub>Colombo, Sri Lanka · open to Software Engineer / Senior Software Engineer roles: on-site, hybrid or remote</sub></p>
