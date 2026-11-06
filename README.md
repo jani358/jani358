@@ -18,10 +18,11 @@ I mostly build backend systems that have to stay **correct under concurrency**. 
 
 | Project | What it shows | Stack |
 |---|---|---|
-| [**ApplyWise**](https://github.com/jani358/applywise-showcase) | AI job copilot. Every tailored CV line must cite a profile fact, and a CI eval gate fails at 1% fabrication (0.0% of 570 claims, measured on an offline test model). Includes a Go ATS parser and a Chrome extension. Full source on request. | Next.js 15 · NestJS · Go · pgvector · BullMQ |
 | [**AskLK**](https://github.com/jani358/asklk-AI-assistant-showcase) | Multi-tenant Sinhala/English RAG with a tool-calling agent, an MCP server and a 46-case eval set gating PRs. Tenants are isolated by Postgres row-level security, with OIDC SSO. AWS Terraform verified on LocalStack. Full source on request. | NestJS · Next.js 15 · pgvector · OpenTelemetry |
 | [**BookLK**](https://github.com/jani358/BookLK-showcase) | Booking marketplace: Kafka transactional outbox, Stripe/PayHere behind a payment port, GraphQL with DataLoader, Helm + ArgoCD on k3d, PACT contracts, and k6 at 500 virtual users with zero double bookings. Full source on request. | NestJS · Go · Kafka · MongoDB · Kubernetes |
-| [**QueueLK**](https://github.com/jani358/queuelk-showcase) | Real-time clinic queue with gap-free tokens under concurrency, Socket.io, Web Push and a React Native (Expo) app. k6 caught a connection-pool problem under load (p95 7.6 s); after fixing it and narrowing row locks, take-number p95 is 71–91 ms. GCP Terraform verified on emulators. Full source on request. | NestJS · Postgres · Redis · Expo · GCP |
+| [**CallDocz (Nexora)**](https://github.com/jani358/nexora-callcenter-showcase) | Call-centre logging and reporting: schema-driven forms stored as JSONB with server-side validation, Postgres full-text search, idempotent saves and three roles. Architecture write-up; full source on request. | NestJS · Next.js · PostgreSQL · Prisma · Redis |
+| [**QueueLK**](https://github.com/jani358/queuelk-showcase) | Real-time clinic queue with gap-free tokens under concurrency, Socket.io, Web Push and a React Native (Expo) app. k6 caught a connection-pool problem under load (p95 7.6 s); after fixing it and narrowing row locks, take-number p95 is 71–91 ms. BigQuery analytics export verified on emulators. Full source on request. | NestJS · Postgres · Redis · Expo · GCP |
+| [**ApplyWise**](https://github.com/jani358/applywise-showcase) | AI job copilot. Every tailored CV line must cite a profile fact, and a CI eval gate fails at 1% fabrication (0.0% of 570 claims, measured on an offline test model). Includes a Go ATS parser and a Chrome extension. Full source on request. | Next.js 15 · NestJS · Go · pgvector · BullMQ |
 
 
 ## Toolbox
