@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Open%20to-On--site%20%C2%B7%20Hybrid%20%C2%B7%20Remote-2EA043?style=flat-square" alt="Open to on-site, hybrid or remote roles" />
 </p>
 
-I mostly build backend systems that have to stay **correct under concurrency**. A wallet can't credit twice, a queue can't give two people the same number, and a booking site can't sell one slot twice.
+I mostly build backend systems that have to stay **correct under concurrency**. A payment can't be counted twice, a queue can't give two people the same number, and a booking site can't sell one slot twice.
 
 - Day job, 3+ years as a full-stack engineer: a real-money iGaming platform we're moving off a Node.js/MongoDB monolith onto **20 Go services + an API gateway**, with Kafka, PostgreSQL and Redis. 12,299 users and 584K records are migrating, and it ships with GitHub Actions and ArgoCD on K3s/AWS.
 - After hours I build full products with ADRs, SLOs, a runbook, a postmortem and CI. That's where I learn the most.
